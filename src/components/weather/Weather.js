@@ -41,7 +41,7 @@ const Weather = () => {
     }
 
     async function handleSearch() {
-        if(search!="") {
+        if(search !== "") {
             setEmptyData(false);
             fetchWeatherData(search)
         }
