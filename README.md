@@ -2,8 +2,6 @@
 Just a very basic weather app created in React.js
 
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
