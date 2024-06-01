@@ -1,5 +1,5 @@
-# basic-weather-app
-Just a very basic weather app created in React.js
+# Basic Weather app
+Just a very basic weather app created in React.js. Try it out at basic-cloudwatch.netlify.app/
 
 
 In the project directory, you can run:
